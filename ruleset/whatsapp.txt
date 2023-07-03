@@ -1,2 +1,2 @@
-whatismyipaddress.com
-ipaddress.my
+DOMAIN-SUFFIX,whatismyipaddress.com
+DOMAIN-SUFFIX,ipaddress.my
